@@ -1,11 +1,11 @@
 <#
 
 .SYNOPSIS
-Azure Virtual Desktop Image Builder Function Script. This Script is used to apply a wait interval.
+Azure Virtual Desktop Image Builder Function Script.
 
 .DESCRIPTION
+This Script is used to apply a wait interval. 
 Applys a 120 second wait before the next script begins.
-
 
 #>
 
